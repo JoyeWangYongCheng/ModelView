@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModelViewer.Plugins", "ModelViewer.Plugins.csproj", "{5FF41C59-3A54-DA7A-DB3A-B30B755D3379}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModelViewer", "ModelViewer.csproj", "{550DCFB7-8035-698A-4E1E-56EC38EE7725}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModelViewer.Editor", "ModelViewer.Editor.csproj", "{3BD73C8B-F83E-A28B-6195-F8E8C50E7EA4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5FF41C59-3A54-DA7A-DB3A-B30B755D3379}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FF41C59-3A54-DA7A-DB3A-B30B755D3379}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FF41C59-3A54-DA7A-DB3A-B30B755D3379}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FF41C59-3A54-DA7A-DB3A-B30B755D3379}.Release|Any CPU.Build.0 = Release|Any CPU
+		{550DCFB7-8035-698A-4E1E-56EC38EE7725}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{550DCFB7-8035-698A-4E1E-56EC38EE7725}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{550DCFB7-8035-698A-4E1E-56EC38EE7725}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{550DCFB7-8035-698A-4E1E-56EC38EE7725}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3BD73C8B-F83E-A28B-6195-F8E8C50E7EA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BD73C8B-F83E-A28B-6195-F8E8C50E7EA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BD73C8B-F83E-A28B-6195-F8E8C50E7EA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BD73C8B-F83E-A28B-6195-F8E8C50E7EA4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
