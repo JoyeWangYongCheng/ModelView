@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: m_1010_jinjing_01
+  m_Shader: {fileID: 4800000, guid: 0c6f8f8ef92a589438abac023f346316, type: 3}
+  m_ShaderKeywords: NEED_ENV_ON USE_AO_ON _EMISSION _HASMETAL_ON _ISLIGHT_ON
+  m_LightmapFlags: 2
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _BumpMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _EmissiveTex:
+        m_Texture: {fileID: 2800000, guid: b0f1f2e91aa126b4585f756788833879, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _EnvCubeMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: 5777c071f73e8084289e5a6bfe8f9634, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MappingTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - NEED_ENV: 1
+    - REALTIME_REFLECTION: 0
+    - USE_AO: 1
+    - _BloomIntension: 0.2
+    - _BumpScale: 1
+    - _ColorMultiplier: 1
+    - _DstBlend: 0
+    - _Emissive: 0.5
+    - _FORCE_NO_USE_FORWARD_PLUS_RENDER: 0
+    - _Factor: 0.003
+    - _HasMetal: 1
+    - _IndirectDiffuseFactor: 1
+    - _IndirectSpecFactor: 1
+    - _LightIntensity: 1
+    - _MetalFactor: 1
+    - _Mode: 0
+    - _NON_USE_PBR_GLOSSY: 0
+    - _ReflectionFactor: 0
+    - _RoughnessFactor: 1
+    - _SrcBlend: 1
+    - _ZWrite: 1
+    m_Colors:
+    - _Color: {r: 1, g: 1, b: 1, a: 1}
+    - _EnvShadowColor: {r: 0.670588, g: 0.55294, b: 0.768627, a: 1}
+    - _Fog: {r: 0, g: 0.11764717, b: 1, a: 1}
+    - _IndirectLightDir: {r: 0.2, g: 1, b: -0.4, a: 0}

@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: streetball2_model_dissolve_runtime
+  m_Shader: {fileID: 4800000, guid: c189f71e7418ead4c8d4b379160633bd, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _AnisoTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _EnvCubeMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _FlowMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MappingTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MaskTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _NormalMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _AnisoEnable: 0
+    - _Cutoff: 0
+    - _CutoffEnd: 0.6
+    - _EmissionFactor: 1
+    - _FurLength: 0.025
+    - _FurLightIntensity: 0.15
+    - _FurMoveStrength: 0
+    - _HasMetal: 1
+    - _MaxOcclusion: 0.85
+    - _MinOcclusion: 0.7
+    - _Offset: 0
+    - _Roughness: 0
+    - _SHIntensity: 0
+    - _SSSEnable: 1
+    - _SelfShadowIntensity: 1
+    - _SpecularOffset: 0
+    m_Colors:
+    - _Color: {r: 1, g: 1, b: 1, a: 1}
+    - _Emission: {r: 1, g: 1, b: 1, a: 1}
+    - _EnvShadowColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
+    - _FurColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
+    - _SHColor: {r: 1, g: 1, b: 1, a: 1}

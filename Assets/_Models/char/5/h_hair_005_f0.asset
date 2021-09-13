@@ -1,0 +1,393 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 172571c915465d3488783066734256dd, type: 3}
+  m_Name: h_hair_005_f0
+  m_EditorClassIdentifier: 
+  dynamicBoneSettingList:
+  - componentPath: Dummy001/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001
+      Spine2/Bip001 Spine3/Bip001 Neck/Bip001 Head/Bone_005_f0001
+    localPosition: {x: -0.17851622, y: -0.09352409, z: -0.060126647}
+    m_Root: Dummy001/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001
+      Spine3/Bip001 Neck/Bip001 Head/Bone_005_f0001
+    m_UpdateRate: 30
+    m_Damping: 0.9
+    m_DampingDistrib:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.0499878
+        value: 0.51250076
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 0
+    m_Elasticity: 0.3
+    m_ElasticityDistrib:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    m_Stiffness: 0.4
+    m_StiffnessDistrib:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    m_Inert: 0.15
+    m_InertDistrib:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    m_Radius: 0
+    m_RadiusDistrib:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    m_EndLength: 0
+    m_EndOffset: {x: 0, y: 0, z: 0}
+    m_Gravity: {x: 0, y: 0, z: 0}
+    m_Force: {x: 0, y: 0, z: 0}
+    m_Colliders: []
+    m_Exclusions: []
+    m_FreezeAxis: 0
+    m_DistantDisable: 0
+    m_ReferenceObject: 
+    m_DistanceToObject: 20
+  - componentPath: Dummy001/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001
+      Spine2/Bip001 Spine3/Bip001 Neck/Bip001 Head/Bone_005_f0001(mirrored)
+    localPosition: {x: -0.2107454, y: -0.11732078, z: 0.07293442}
+    m_Root: Dummy001/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001
+      Spine3/Bip001 Neck/Bip001 Head/Bone_005_f0001(mirrored)
+    m_UpdateRate: 30
+    m_Damping: 0.9
+    m_DampingDistrib:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 0
+    m_Elasticity: 0.3
+    m_ElasticityDistrib:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    m_Stiffness: 0.4
+    m_StiffnessDistrib:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    m_Inert: 0.16
+    m_InertDistrib:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    m_Radius: 0
+    m_RadiusDistrib:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    m_EndLength: 0
+    m_EndOffset: {x: 0, y: 0, z: 0}
+    m_Gravity: {x: 0, y: 0, z: 0}
+    m_Force: {x: 0, y: 0, z: 0}
+    m_Colliders: []
+    m_Exclusions: []
+    m_FreezeAxis: 0
+    m_DistantDisable: 0
+    m_ReferenceObject: 
+    m_DistanceToObject: 20
+  - componentPath: Dummy001/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001
+      Spine2/Bip001 Spine3/Bip001 Neck/Bip001 Head/Bone_005_f0004
+    localPosition: {x: -0.19382384, y: -0.061527092, z: 0.04616317}
+    m_Root: Dummy001/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001
+      Spine3/Bip001 Neck/Bip001 Head/Bone_005_f0004
+    m_UpdateRate: 30
+    m_Damping: 0.9
+    m_DampingDistrib:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 0
+    m_Elasticity: 0.3
+    m_ElasticityDistrib:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    m_Stiffness: 0.4
+    m_StiffnessDistrib:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    m_Inert: 0.15
+    m_InertDistrib:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    m_Radius: 0
+    m_RadiusDistrib:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    m_EndLength: 0
+    m_EndOffset: {x: 0, y: 0, z: 0}
+    m_Gravity: {x: 0, y: 0, z: 0}
+    m_Force: {x: 0, y: 0, z: 0}
+    m_Colliders: []
+    m_Exclusions: []
+    m_FreezeAxis: 0
+    m_DistantDisable: 0
+    m_ReferenceObject: 
+    m_DistanceToObject: 20
+  - componentPath: Dummy001/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001
+      Spine2/Bip001 Spine3/Bip001 Neck/Bip001 Head/Bone_005_f0007
+    localPosition: {x: -0.22270049, y: -0.098499395, z: -0.05417313}
+    m_Root: Dummy001/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001
+      Spine3/Bip001 Neck/Bip001 Head/Bone_005_f0007
+    m_UpdateRate: 30
+    m_Damping: 0.9
+    m_DampingDistrib:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 0
+    m_Elasticity: 0.3
+    m_ElasticityDistrib:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    m_Stiffness: 0.4
+    m_StiffnessDistrib:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    m_Inert: 0.15
+    m_InertDistrib:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    m_Radius: 0
+    m_RadiusDistrib:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    m_EndLength: 0
+    m_EndOffset: {x: 0, y: 0, z: 0}
+    m_Gravity: {x: 0, y: 0, z: 0}
+    m_Force: {x: 0, y: 0, z: 0}
+    m_Colliders: []
+    m_Exclusions: []
+    m_FreezeAxis: 0
+    m_DistantDisable: 0
+    m_ReferenceObject: 
+    m_DistanceToObject: 20
+  - componentPath: Dummy001/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001
+      Spine2/Bip001 Spine3/Bip001 Neck/Bip001 Head/Bone_005_f0011
+    localPosition: {x: -0.21267822, y: -0.037454493, z: 0.01849304}
+    m_Root: Dummy001/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001
+      Spine3/Bip001 Neck/Bip001 Head/Bone_005_f0011
+    m_UpdateRate: 30
+    m_Damping: 0.9
+    m_DampingDistrib:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 0
+    m_Elasticity: 0.3
+    m_ElasticityDistrib:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    m_Stiffness: 0.4
+    m_StiffnessDistrib:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    m_Inert: 0.15
+    m_InertDistrib:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    m_Radius: 0
+    m_RadiusDistrib:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    m_EndLength: 0
+    m_EndOffset: {x: 0, y: 0, z: 0}
+    m_Gravity: {x: 0, y: 0, z: 0}
+    m_Force: {x: 0, y: 0, z: 0}
+    m_Colliders: []
+    m_Exclusions: []
+    m_FreezeAxis: 0
+    m_DistantDisable: 0
+    m_ReferenceObject: 
+    m_DistanceToObject: 20
+  - componentPath: Dummy001/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001
+      Spine2/Bip001 Spine3/Bip001 Neck/Bip001 Head/Bone_005_f0011(mirrored)
+    localPosition: {x: -0.21267822, y: -0.037454452, z: -0.01861023}
+    m_Root: Dummy001/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001
+      Spine3/Bip001 Neck/Bip001 Head/Bone_005_f0011(mirrored)
+    m_UpdateRate: 30
+    m_Damping: 0.9
+    m_DampingDistrib:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 0
+    m_Elasticity: 0.3
+    m_ElasticityDistrib:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    m_Stiffness: 0.4
+    m_StiffnessDistrib:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    m_Inert: 0.15
+    m_InertDistrib:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    m_Radius: 0
+    m_RadiusDistrib:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    m_EndLength: 0
+    m_EndOffset: {x: 0, y: 0, z: 0}
+    m_Gravity: {x: 0, y: 0, z: 0}
+    m_Force: {x: 0, y: 0, z: 0}
+    m_Colliders: []
+    m_Exclusions: []
+    m_FreezeAxis: 0
+    m_DistantDisable: 0
+    m_ReferenceObject: 
+    m_DistanceToObject: 20
+  dynamicBoneColliderSettingList: []

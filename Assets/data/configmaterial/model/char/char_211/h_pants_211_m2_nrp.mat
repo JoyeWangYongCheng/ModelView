@@ -1,0 +1,109 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: h_pants_211_m2_nrp
+  m_Shader: {fileID: 4800000, guid: 86058b082f3178c4594e11a7f3605fb3, type: 3}
+  m_ShaderKeywords: NEED_ENV_ON NON_USE_FOG_ON TYPE_CHAR USE_AO_ON USE_NRP_ON USE_SELFSHADOW_ON
+    _HASMETAL_ON _NORMALMAP
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: 2000
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _AnisoTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _BumpMap:
+        m_Texture: {fileID: 2800000, guid: 053978b1c3ec715478901382afab08c9, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _EnvCubeMap:
+        m_Texture: {fileID: 8900000, guid: a9db12aef81076544a833209c80595b5, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: ad94ccdd96074894db5d841d24d67dd4, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MappingTex:
+        m_Texture: {fileID: 2800000, guid: 3b4339d3f1c03a0488bbee8528a95c41, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _ReflectionTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _TattooTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _ThinFilmMask:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - BLUR: 0
+    - NEED_ENV: 1
+    - NON_USE_FOG: 1
+    - REALTIME_REFLECTION: 0
+    - USE_ANISOTROPY: 0
+    - USE_ANITREE: 0
+    - USE_AO: 1
+    - USE_EMISSION: 0
+    - USE_FADE_TEX: 0
+    - USE_FADE_TEX_ADD: 0
+    - USE_FADE_TO_BLEND: 0
+    - USE_GAMMA_SPACE: 0
+    - USE_LERP_LIGHT: 0
+    - USE_MATERIAL_DIR: 0
+    - USE_NRP: 1
+    - USE_SELFSHADOW: 1
+    - USE_SSSENABLE: 0
+    - USE_TATTOO_TEX: 0
+    - USE_THINFILMREFLECT: 0
+    - _Amplitude: 2.3
+    - _Amplitude01: 1
+    - _BumpScale: 1
+    - _Cutoff: 1
+    - _DstBlend: 0
+    - _EmissionFactor: 1
+    - _FORCE_NO_USE_FORWARD_PLUS_RENDER: 0
+    - _FilmDepth: 755
+    - _FogFactor: 1
+    - _Frequency: 0.74
+    - _Frequency01: 1
+    - _HASMETAL: 1
+    - _IndirectDiffuseFactor: 1
+    - _IndirectSpecFactor: 1
+    - _LightIntensity: 1
+    - _LightLerpFactor: 1
+    - _Mode: 0
+    - _NON_USE_PBR_GLOSSY: 0
+    - _Occlusion: 0.5
+    - _ReflectionFactor: 1
+    - _SrcBlend: 1
+    - _TattooToggle: 0
+    - _TypeUse: 0
+    - _ZWrite: 1
+    - _fadeAddTime: 0.1
+    - _fadeUVFactor: 1
+    m_Colors:
+    - _Color: {r: 1, g: 1, b: 1, a: 1}
+    - _Emission: {r: 1, g: 1, b: 1, a: 1}
+    - _EnvShadowColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
+    - _IOR: {r: 0.9, g: 1, b: 1.1, a: 1}
+    - _IndirectLightDir: {r: 0.2, g: 1, b: -0.4, a: 0}
+    - _SurfaceColor: {r: 1, g: 1, b: 1, a: 1}
+    - _ThinFilmColor: {r: 1, g: 1, b: 1, a: 1}
+    - _WindDir: {r: 1, g: 1, b: 1, a: 1}
+    - _fadeAddColor: {r: 1, g: 1, b: 1, a: 1}
